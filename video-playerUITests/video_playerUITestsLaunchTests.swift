@@ -2,7 +2,7 @@
 //  video_playerUITestsLaunchTests.swift
 //  video-playerUITests
 //
-//  Created by Vaasist van Strien on 19/02/2025.
+//  Created by Md Muhaiminul on 19/02/2025.
 //
 
 import XCTest
